@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Fredoka:wght@300&family=Rubik:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Raleway:wght@100&family=Roboto:wght@300&family=Rubik:wght@300&display=swap");
 /* Sass Template */
 /* global classes */
-button,
-button:focus {
+button, button:focus {
   outline: none !important;
-  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
 }
 
 /* typography class */
@@ -13,7 +13,7 @@ button:focus {
 }
 
 .font-raleway {
-  font-family: "Fredoka", cursive;
+  font-family: "Raleway", cursive;
 }
 
 .font-rubik {
@@ -42,19 +42,18 @@ button:focus {
 }
 
 .color-second {
-  color: #00a5c4;
+  color: #00A5C4;
 }
 
 .color-second-bg {
-  background: #00a5c4;
+  background: #00A5C4;
 }
 
 .color-yellow {
-  color: #ffd289;
+  color: #FFD289;
 }
 
 .color-yellow-bg {
-  background: #ffd289;
+  background: #FFD289;
 }
-
 /*# sourceMappingURL=style.css.map */
