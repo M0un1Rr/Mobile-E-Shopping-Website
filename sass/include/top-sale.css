@@ -1,0 +1,18 @@
+/* Top Sale Template*/
+#top-sale .owl-carousel .item.product a {
+  overflow: hidden;
+}
+
+#top-sale .owl-carousel .item.product img {
+  -webkit-transition: -webkit-transform 0.5s ease;
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+}
+
+#top-sale .owl-carousel .item.product img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  display: none;
+}
+/*# sourceMappingURL=top-sale.css.map */

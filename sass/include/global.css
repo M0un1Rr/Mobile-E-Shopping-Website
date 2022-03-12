@@ -5,9 +5,4 @@ button:focus {
   -webkit-box-shadow: none !important;
           box-shadow: none !important;
 }
-
-a:hover,
-a:visited {
-  color: #000;
-}
 /*# sourceMappingURL=global.css.map */
