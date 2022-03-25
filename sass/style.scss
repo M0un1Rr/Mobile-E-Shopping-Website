@@ -1,8 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2&family=Fredoka:wght@300&family=Rubik:wght@300&display=swap");
 
 /* Sass Template */
-@import "./include/variables.scss";
-@import "./include/global.scss";
-@import "./include/typography.scss";
-@import "./include/color.scss";
-@import "./include/top-sale.scss";
+@import "./include/_variables.scss";
+@import "./include/_global.scss";
+@import "./include/_typography.scss";
+@import "./include/_color.scss";
+@import "./include/_top-sale.scss";
+@import "./include/_prix-special.scss";

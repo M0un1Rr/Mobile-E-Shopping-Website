@@ -65,7 +65,7 @@ button:focus {
   transition: transform 0.5s ease;
 }
 #top-sale .owl-carousel .item .product img:hover {
-  transform: scale(1.1);
+  transform: scale(1.05);
 }
 #top-sale .owl-carousel .owl-nav button {
   position: absolute;
@@ -89,6 +89,12 @@ button:focus {
 }
 #top-sale .owl-carousel .owl-nav button.owl-next {
   right: 0;
+}
+
+/* Prix speciale template */
+#special-price .grid-item {
+  margin-right: 1.2rem;
+  margin-top: 1.2rem;
 }
 
 /*# sourceMappingURL=style.css.map */
